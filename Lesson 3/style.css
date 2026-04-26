@@ -1,0 +1,44 @@
+.text{
+   color: red;
+font-size: 30px;
+}
+.p{
+   color: blue;
+   font-family: cursive;
+}
+div{
+    width: 300px; 
+    height: 100px;
+    background-color: rgb(246, 255, 0);
+    border: 5px solid black;
+}
+#MyDiv{
+    transform: rotatex(180deg);
+}
+*{
+    text-align: center;
+}
+h2{
+    text-decoration: overline;
+     text-transform: uppercase;
+}
+h3{
+    text-decoration: line-through;
+    text-transform: uppercase;
+}
+h4{
+    text-decoration: underline;
+    text-transform: lowercase;
+}
+h5{text-decoration: underline overline;
+    text-transform: none;
+}
+ #text{
+    text-shadow: 2px 2px 1px blue;
+ }
+#box{
+    box-shadow: -9px -9px 5px red;
+}
+#A{
+    text-indent: 50%;
+}
